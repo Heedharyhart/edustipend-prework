@@ -1,0 +1,6 @@
+From The user Interface Mock, the  core components that make up the user Interface Include:-
+
+1. Button component- which can be reuseable throughout the entire project
+2. The Navbar Component
+3. The Accordion component
+4. The sidebar component that houses the Accordion component
